@@ -163,10 +163,23 @@ ul {
     padding: 2em 0;
 } 
 
+.font {
+    font-size: 1.5em;
+}
+
 
 /* FOOTER */
 
 .footer-v {
     width: 100%;
-    margin-top: 10px;
+    margin: 2em 45% 0;
+}
+
+.f-text {
+    display: inline-block;
+}
+
+.heart {
+    color: red;
+    font-size: 2em;
 }
